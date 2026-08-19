@@ -49,25 +49,7 @@
   </a>
 </p>
 
-```text
-┌────────────────────────────────────────────────────────┐
-│ 🛡️ Comprehensive step-by-step tutorial on deploying   │
-│    a modern, censorship-resistant private VPN server   │
-│    via 3x-ui panel (VLESS + XTLS-Reality).             │
-│                                                        │
-│  • Languages: English & Russian (RU/EN)                │
-│  • Tech Stack: Linux, Ubuntu, Xray, Docker             │
-│  • Hardening: SSH security, UFW firewall, Fail2Ban     │
-└────────────────────────────────────────────────────────┘
-```
 
-<p align="center">
-  <i>⏳ Working on new open-source AI & Network automation tools...</i>
-</p>
-
----
-
----
 
 <!-- PINNED-PROJECTS:END -->
 
