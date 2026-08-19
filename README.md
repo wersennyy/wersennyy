@@ -48,17 +48,9 @@
   </a>
 </p>
 
-<p align="center">
-  <i>⏳ Working on new open-source AI & Network automation tools...</i>
-</p>
-
 ---
 
 <!-- PINNED-PROJECTS:END -->
-
----
-
----
 
 ## GitHub Stats
 
