@@ -61,3 +61,8 @@
 > *"The best way to predict the future is to build it."*
 
 </div>
+<div align="center">
+
+  <!-- Вызов твоей личной обновленной картинки -->
+  <img src="wave-footer.svg" width="100%" alt="wersennyy footer" />
+</div>
