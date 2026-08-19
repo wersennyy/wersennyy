@@ -23,24 +23,18 @@
 ## About Me
 
 ```
-╭──────────────────────────────────────────────╮
-│                                              │
-│  Self-taught developer from ...              │
-│                                              │
-│  I enjoy building:                           │
-│                                              │
-│   • AI Assistants                            │
-│   • Computer Vision                          │
-│   • Local LLMs                               │
-│   • Assembly                                 │
-│   • Linux Applications                       │
-│   • Video AI                                 │
-│   • C++, C, Python and etc                   |
-|   • ClaudeCode, Opencode, etc                |
-|   • network, bash, scripting etc             |
-|   • just tech love computers and internet    │
-│   • also love Soldering                      │
-╰──────────────────────────────────────────────╯
+┌────────────────────────────────────────────────────────┐
+│ I am 15 years old, a student, and passionate about IT. │
+│                                                        │
+│ I love learning and developing in:                     │
+│  • Linux (Ubuntu, Debian) & Automation                 │
+│  • Routing & Networking technologies                   │
+│  • Network Security & DPI/Censorship bypass            │
+│  • Web Development (HTML, CSS) & Clean Interfaces      │
+│                                                        │
+│ Author of a trending guide on self-hosted VPN setup.   │
+└────────────────────────────────────────────────────────┘
+
 ```
 
 ---
