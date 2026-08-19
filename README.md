@@ -47,13 +47,6 @@
     <img src="tiktok_logo_icon_189233.svg" height="35" alt="TikTok" />
   </a>
 </p>
-
----
-
-
----
-
-
 ---
 <div align="center">
 
