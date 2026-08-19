@@ -39,7 +39,7 @@
 <p align="center">
   <!-- Кнопка Stepik с принудительной высотой -->
   <a href="https://stepik.org/users/677636941/profile" target="_blank">
-    <img src="badge-stepik.svg" height="35" alt="Stepik" />
+    <img src="id3zHH-p12_logos.svg" height="35" alt="Stepik" />
   </a>
   &nbsp;&nbsp;
   <!-- Кнопка TikTok с точно такой же высотой -->
