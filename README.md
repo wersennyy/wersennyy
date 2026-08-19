@@ -9,7 +9,7 @@
   <b>AI • Linux • Network Security • VPN Architect • Programming</b>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,linux,vim,arduino,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=telegram,python,bash,linux,vim,arduino,git,github,vscode" />
 </p>
 </div>
 
