@@ -12,9 +12,7 @@
 
 ### 🌐 Мои социальные сети:
 
-<a href="https://stepik.org/users/677636941/profile" target="_blank"><img src="https://shields.io" alt="Stepik" /></a> 
-<a href="https://tiktok.com/@prityxo" target="_blank"><img src="https://shields.io" alt="TikTok" /></a>
-
+<a href="https://stepik.org/users/677636941/profile" target="_blank"><img src="https://shields.io" alt="Stepik" /></a> <a href="https://tiktok.com/@prityxo" target="_blank"><img src="https://shields.io" alt="TikTok" /></a>
 
 ---
 
