@@ -6,9 +6,6 @@
   <!-- Вторая бегущая строка с дополнительными статусами, как у него -->
   <img src="https://demolab.com" alt="subtitles" />
 
-  <!-- Твой Stepik и просмотры -->
-  [![Stepik](https://shields.io)](https://stepik.org)
-  ![Views](https://komarev.com)
 
 </div>
 
