@@ -1,26 +1,65 @@
-# Привет! Я wersennyy 👋
+<p align="center">
+  <!-- БОЛЬШОЙ НИКНЕЙМ С КЛАССНЫМ ЭФФЕКТОМ (как SANTA на фото) -->
+  <img src="https://demolab.com" alt="Typing SVG" />
+</p>
 
-Мне 15 лет, я учусь в школе, изучаю Linux, программирование и сетевую безопасность. Имею множество знаний в веб-верстке и Linux (Debian, Ubuntu). Автор популярного гайда по настройке self-hosted VPN.
+<p align="center">
+  <b>AI • Linux • Network Security • VPN Architect</b>
+</p>
+
+<p align="center">
+  <!-- КРАСИВЫЕ КЛИКАБЕЛЬНЫЕ ИКОНКИ ТЕХНОЛОГИЙ С КРУГЛЫМИ УГЛАМИ -->
+  <img src="https://skillicons.dev" alt="My Skills" />
+</p>
+
+<p align="center">
+  <i>Also working with: 3x-ui, VLESS, XTLS-Reality, Xray, Networking</i>
+</p>
 
 ---
 
-### 🛠️ Технологии и инструменты, которыми я пользуюсь:
+## 👤 About Me
 
-<img src="https://shields.io" alt="Linux" /> <img src="https://shields.io" alt="Ubuntu" /> <img src="https://shields.io" alt="Debian" /> <img src="https://shields.io" alt="Bash" /> <img src="https://shields.io" alt="Docker" /> <img src="https://shields.io" alt="GitHub" />
+```text
+┌────────────────────────────────────────────────────────┐
+│ Мне 15 лет, я учусь в школе и увлекаюсь сетями.       │
+│                                                        │
+│ Я люблю изучать:                                       │
+│  • Linux (Ubuntu, Debian)                              │
+│  • Маршрутизацию и сети                                │
+│  • Сетевую безопасность и обход ограничений            │
+│  • Веб-верстку (HTML, CSS)                             │
+│                                                        │
+│ Автор популярного гайда по настройке self-hosted VPN.  │
+└────────────────────────────────────────────────────────┘
+```
 
 ---
 
-### 🌐 Мои социальные сети:
+## 🌐 Social Media
 
-<a href="https://stepik.org/users/677636941/profile" target="_blank"><img src="https://shields.io" alt="Stepik" /></a> <a href="https://tiktok.com/@prityxo" target="_blank"><img src="https://shields.io" alt="TikTok" /></a>
+<p align="left">
+  <a href="https://stepik.org" target="_blank">
+    <img src="https://shields.io" alt="Stepik" />
+  </a>
+  <a href="https://tiktok.com" target="_blank">
+    <img src="https://shields.io" alt="TikTok" />
+  </a>
+</p>
 
 ---
 
-### 📊 Моя активность на GitHub:
+## 📊 GitHub Stats
 
-![wersennyy's GitHub stats](https://vercel.app)
+<p align="center">
+  <!-- Основная статистика -->
+  <img src="https://vercel.app" alt="wersennyy's GitHub stats" width="48%" />
+  
+  <!-- Используемые языки -->
+  <img src="https://vercel.app" alt="Top Langs" width="48%" />
+</p>
 
-![Top Langs](https://vercel.app)
-
-![GitHub Streak](https://herokuapp.com)
-
+<p align="center">
+  <!-- Счетчик активности (Стрик) -->
+  <img src="https://herokuapp.com" alt="GitHub Streak" width="97%" />
+</p>
