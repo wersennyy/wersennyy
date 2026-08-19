@@ -41,39 +41,22 @@
 
 ## 🛠️ Featured Projects
 
-<table>
-  <tr>
-    <td>
-      <!-- Левая колонка: Название проекта и красивый логотип-щит -->
-      <h3 align="center">🛡️ <a href="https://github.com/wersennyy/self-hosted-vpn-guide">self-hosted-vpn-guide</a></h3>
-      <p align="center">
-        <img src="https://shields.io" alt="Status">
-      </p>
-    </td>
-    <td>
-      <!-- Правая колонка: Описание и технологии -->
-      <p><b>A comprehensive, beginner-friendly step-by-step tutorial on deploying a modern, censorship-resistant private VPN server via 3x-ui panel.</b></p>
-      <ul>
-        <li>🌐 <b>Protocols:</b> VLESS + XTLS-Reality (mimics standard HTTPS traffic)</li>
-        <li>🔐 <b>Security:</b> Automated SSH port shifting, UFW Firewall configuration, Fail2Ban protection</li>
-        <li>📱 <b>Clients:</b> Cross-platform setup verified for Linux and iOS (Happ client)</li>
-        <li>📝 <b>Localization:</b> Fully clean documentation written in both English and Russian</li>
-      </ul>
-      <!-- Линейка бэйджей технологий внутри карточки -->
-      <p align="left">
-        <img src="https://shields.io" />
-        <img src="https://shields.io" />
-        <img src="https://shields.io" />
-        <img src="https://shields.io🛡️-blue?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br>
-<p align="center">
-  <i>⏳ Working on new open-source AI & Network automation tools...</i>
-</p>
+```text
+┌────────────────────────────────────────────────────────┐
+│ 🛡️ self-hosted-vpn-guide                               │
+│                                                        │
+│ A comprehensive, beginner-friendly step-by-step        │
+│ tutorial on deploying a modern, censorship-resistant   │
+│ private VPN server via 3x-ui panel.                    │
+│                                                        │
+│  • Protocols: VLESS + XTLS-Reality (HTTPS mimic)       │
+│  • Security: SSH port shift, UFW Firewall, Fail2Ban    │
+│  • Platforms: Linux, iOS (Happ client setup verified)   │
+│  • Languages: English & Russian (RU/EN)                │
+│                                                        │
+│ 🔗 Link: ://https://github.com/wersennyy/self-hosted-vpn-guide   │
+└────────────────────────────────────────────────────────┘
+```
 
 ---
 
