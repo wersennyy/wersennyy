@@ -12,7 +12,7 @@
 
 ### AI • Linux • Network Security • VPN Architect • Programming
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=A9FEF7&center=true&vCenter=true&width=600&lines=AI;VPN Architect;Linux;Network Security;Programming" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=A9FEF7&center=true&vCenter=true&width=600&lines=AI;VPN+ Architect;Linux+Enthusiast;Network+Security;Programming+code;Building+things+that+matter..." alt="Typing SVG" />
 
 </div>
 
