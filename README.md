@@ -61,30 +61,6 @@
 ---
 
 <!-- PINNED-PROJECTS:END -->
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <!-- Основная статистика профиля в теме tokyonight -->
-  <img src="https://vercel.app" alt="wersennyy's GitHub stats" width="48%" />
-  <!-- Самые используемые языки программирования -->
-  <img src="https://vercel.app" alt="Top Langs" width="48%" />
-</p>
-
-<p align="center">
-  <!-- Длинный график непрерывной активности (Streak) -->
-  <img src="https://herokuapp.com" alt="GitHub Streak" width="97%" />
-</p>
-
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/santa67creator/santa67creator/main/trophy.svg" width="900" />
-</p>
-
----
-
 ## Terminal
 
 <p align="center">
