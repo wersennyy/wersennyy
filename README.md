@@ -37,16 +37,19 @@
 ## 🌐 Social Media
 
 <p align="center">
-  <!-- Кнопка Stepik (локальный файл) -->
+  <!-- Кнопка Stepik с принудительной высотой -->
   <a href="https://stepik.org/users/677636941/profile" target="_blank">
-    <img src="id3zHH-p12_logos.svg" alt="Stepik" />
+    <img src="badge-stepik.svg" height="35" alt="Stepik" />
   </a>
   &nbsp;&nbsp;
-  <!-- Твой новый скачанный SVG ТикТока (локальный файл) -->
+  <!-- Кнопка TikTok с точно такой же высотой -->
   <a href="https://tiktok.com/@prityxo" target="_blank">
-    <img src="tiktok_logo_icon_189233.svg" height="28" alt="TikTok" />
+    <img src="tiktok.svg" height="35" alt="TikTok" />
   </a>
 </p>
+
+---
+
 
 ---
 
