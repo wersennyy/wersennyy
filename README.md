@@ -43,8 +43,7 @@
 
 <!-- PINNED-PROJECTS:START -->
 <p align="center">
-  <a href="https://github.com/santa67creator/Saiko"><img src="https://raw.githubusercontent.com/santa67creator/santa67creator/main/card-saiko.svg" width="340" /></a>
-  <a href="https://github.com/santa67creator/my_rice_hyprland"><img src="https://raw.githubusercontent.com/santa67creator/santa67creator/main/card-my_rice_hyprland.svg" width="340" /></a>
+  <a href="https://https://github.com/wersennyy/self-hosted-vpn-guide">
 </p>
 <!-- PINNED-PROJECTS:END -->
 
