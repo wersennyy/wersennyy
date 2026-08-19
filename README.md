@@ -34,6 +34,22 @@
 *   🧱 **Cybersecurity** — Hardening server environments (SSH protection, `UFW` firewall, `Fail2Ban`).
 *   🎨 **Web Dev** — Creating fast, responsive and pixel-perfect web interfaces.
 
+## 🌐 Social Media
+
+<p align="center">
+  <!-- Кнопка на твой профиль в Stepik -->
+  <a href="https://stepik.org/users/677636941/profile" target="_blank">
+    <img src="https://shields.io" alt="Stepik" />
+  </a>
+  &nbsp;&nbsp;
+  <!-- Кнопка на твой TikTok -->
+  <a href="https://tiktok.com/@prityxo" target="_blank">
+    <img src="https://shields.io" alt="TikTok" />
+  </a>
+</p>
+
+---
+****
 ---
 <div align="center">
 
