@@ -59,7 +59,9 @@
 │ 🔗 Link://github.com/wersennyy/self-hosted-vpn-guide   │
 └────────────────────────────────────────────────────────┘
 ```
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/santa67creator/santa67creator/main/trophy.svg" width="900" />
+</p>
 ---
 
 <div align="center">
