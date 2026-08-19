@@ -17,21 +17,22 @@
 
 ## 👤 About Me
 
-<br>
 
-### 👨‍💻 My Tech Profile
-*   👦 **Age:** 15-year-old student & tech enthusiast.
-*   🚀 **Main Goal:** Building modern AI tools and securing cloud networks.
-*   🐧 **Favorite OS:** Linux (`Ubuntu`, `Debian`) — fully running custom configurations.
-*   📚 **Education:** Currently expanding my skills via self-study and `Stepik` courses.
+### 🖥️ My Tech Profile
+*   ⚡ **Age:** 15-year-old student & tech enthusiast.
+*   🎯 **Main Goal:** Mastering advanced network architectures, Linux administration, and full-stack development to build secure, scalable open-source projects.
+*   💻 **Favorite OS:** Linux (`Ubuntu`, `Debian`) — fully running custom configurations.
+*   📖 **Education:** Currently expanding my skills via self-study and `Stepik` courses.
 
 ---
 
-### 🛡️ Core Interests & Focus
-*   🤖 **AI Automation** — Scripting custom AI tools and smart automation assistants.
-*   🌐 **Networking** — Designing high-performance, censorship-resistant routing (`VLESS`, `Reality`, `Xray`).
-*   🔒 **Cybersecurity** — Hardening server environments (SSH protection, `UFW` firewall, `Fail2Ban`).
-*   💻 **Web Dev** — Creating fast, responsive and pixel-perfect web interfaces.
+### ⚙️ Core Interests & Focus
+*   🧠 **AI Automation** — Scripting custom AI tools and smart automation assistants.
+*   🛠️ **Networking** — Designing high-performance, censorship-resistant routing (`VLESS`, `Reality`, `Xray`).
+*   🧱 **Cybersecurity** — Hardening server environments (SSH protection, `UFW` firewall, `Fail2Ban`).
+*   🎨 **Web Dev** — Creating fast, responsive and pixel-perfect web interfaces.
+
+---
 
 ---
 
