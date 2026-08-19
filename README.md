@@ -15,11 +15,7 @@
 </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,linux,vim,docker,arduino,git,github,mysql,vscode,cmake,opencv,blender" />
-</p>
-
-<p align="center">
-  <b>Also working with:</b> CUDA · Ollama · llama.cpp · OpenRouter · OpenAI API · Anthropic API · CPT · OpenClaw
+  <img src="https://skillicons.dev/icons?i=python,bash,linux,vim,arduino,git,github,vscode," />
 </p>
 
 ---
