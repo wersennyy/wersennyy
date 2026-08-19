@@ -8,6 +8,9 @@
   <!-- Строка направлений строго по центру -->
   <b>AI • Linux • Network Security • VPN Architect • Programming</b>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,bash,linux,vim,arduino,git,github,vscode" />
+</p>
 </div>
 
 <br>
