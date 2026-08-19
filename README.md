@@ -59,10 +59,7 @@
 │ 🔗 Link://github.com/wersennyy/self-hosted-vpn-guide   │
 └────────────────────────────────────────────────────────┘
 ```
-<<p align="center">
-  <!-- Твоя личная витрина достижений GitHub -->
-  <img src="trophies.svg" width="100%" alt="wersennyy trophies" />
-</p>
+
 
 ---
 
