@@ -57,18 +57,6 @@
 │ 🔗 Link://github.com/wersennyy/self-hosted-vpn-guide   │
 └────────────────────────────────────────────────────────┘
 ```
-
----
-
-<!-- PINNED-PROJECTS:END -->
-## Terminal
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/santa67creator/santa67creator/main/terminal.svg" width="700" />
-</p>
-
----
-
 ---
 
 ## Currently Learning
