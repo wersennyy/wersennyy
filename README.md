@@ -1,5 +1,5 @@
 <p align="center">
-  <!-- Анимированный крупный никнейм -->
+  <!-- ВАЖНО: Тут стоит правильный тег картинки с восклицательным знаком ! перед [ -->
   <img src="https://demolab.com" alt="Typing SVG" />
 </p>
 
@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <!-- Глянцевые иконки используемого софта и платформ -->
+  <!-- Полноценный блок иконок приложений (как у Santa) -->
   <img src="https://skillicons.dev" alt="My Skills" />
 </p>
 
@@ -43,28 +43,19 @@
 
 ## 🌐 Social Media
 
-<p align="left">
-  <a href="https://stepik.org" target="_blank">
-    <img src="https://shields.io" alt="Stepik" />
-  </a>
-  <a href="https://tiktok.com" target="_blank">
-    <img src="https://shields.io" alt="TikTok" />
-  </a>
-</p>
+* 🟢 [Мой профиль на Stepik](https://stepik.org)
+* 📱 [Мой TikTok](https://tiktok.com)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Блок основной статистики -->
+  <!-- Проверьте наличие знака ! перед каждым блоком графиков -->
   <img src="https://vercel.app" alt="wersennyy's GitHub stats" width="48%" />
-  
-  <!-- Блок языков программирования -->
   <img src="https://vercel.app" alt="Top Langs" width="48%" />
 </p>
 
 <p align="center">
-  <!-- Счетчик непрерывной активности (Стрик) -->
   <img src="https://herokuapp.com" alt="GitHub Streak" width="97%" />
 </p>
