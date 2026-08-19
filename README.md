@@ -3,12 +3,15 @@
   <!-- Вызов твоей личной обновленной картинки -->
   <img src="wave-header(1).svg" width="100%" alt="wersennyy header" />
 
-<p align="center">
+  <br>
+
+  <!-- Строка направлений строго по центру -->
   <b>AI • Linux • Network Security • VPN Architect • Programming</b>
-</p>
 
 </div>
----
+
+<br>
+<br>
 
 ## About Me
 
