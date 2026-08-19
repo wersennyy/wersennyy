@@ -25,10 +25,10 @@
 <!-- ССЫЛКИ НА СОЦСЕТИ -->
 <h3 align="center">🌐 Мои социальные сети:</h3>
 <p align="center">
-  <a href="https://t.me" target="_blank">
-    <img src="https://shields.io" alt="Telegram" />
+  <a href="https://stepik.org/users/677636941/profile" target="_blank">
+    <img src="https://shields.io" alt="Stepik" />
   </a>
-  <a href="https://tiktok.com" target="_blank">
+  <a href="https://tiktok.com/@prityxo" target="_blank">
     <img src="https://shields.io" alt="TikTok" />
   </a>
 </p>
