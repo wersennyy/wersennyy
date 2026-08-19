@@ -4,7 +4,7 @@
   <img src="wave-header(1).svg" width="100%" alt="wersennyy header" />
 </div>
 
-### AI • Linux • Network Security • VPN Architect • Programming
+###           AI • Linux • Network Security • VPN Architect • Programming
 
 </div>
 
