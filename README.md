@@ -34,6 +34,9 @@
 ```
 
 ---
+<p align="center">
+  <img src="https://vercel.app" width="100%" alt="wersennyy's activity graph" />
+</p>
 
 ## 🛠️ Best Projects
 
