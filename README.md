@@ -39,7 +39,7 @@
 <p align="center">
   <!-- Кнопка Stepik (локальный файл) -->
   <a href="https://stepik.org/users/677636941/profile" target="_blank">
-    <img src="badge-stepik.svg" alt="Stepik" />
+    <img src="id3zHH-p12_logos.svg" alt="Stepik" />
   </a>
   &nbsp;&nbsp;
   <!-- Твой новый скачанный SVG ТикТока (локальный файл) -->
