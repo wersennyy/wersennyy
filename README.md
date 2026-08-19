@@ -43,7 +43,7 @@
 
 <!-- PINNED-PROJECTS:START -->
 <p align="center">
-  <a href="https://https://github.com/wersennyy/self-hosted-vpn-guide"></a>
+  "https://https://github.com/wersennyy/self-hosted-vpn-guide"
 </p>
 <!-- PINNED-PROJECTS:END -->
 
