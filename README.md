@@ -51,10 +51,10 @@
 │                                                        │
 │  • Protocols: VLESS + XTLS-Reality (HTTPS mimic)       │
 │  • Security: SSH port shift, UFW Firewall, Fail2Ban    │
-│  • Platforms: Linux, iOS (Happ client setup verified)   │
+│  • Platforms: Linux, iOS (Happ client setup verified)  │
 │  • Languages: English & Russian (RU/EN)                │
 │                                                        │
-│ 🔗 Link: ://https://github.com/wersennyy/self-hosted-vpn-guide   │
+│ 🔗 Link://github.com/wersennyy/self-hosted-vpn-guide   │
 └────────────────────────────────────────────────────────┘
 ```
 
