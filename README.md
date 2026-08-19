@@ -6,19 +6,15 @@
 
 ### 🛠️ Технологии и инструменты, которыми я пользуюсь:
 
-![Linux](https://shields.io)
-![Ubuntu](https://shields.io)
-![Debian](https://shields.io)
-![Bash](https://shields.io)
-![Docker](https://shields.io)
-![GitHub](https://shields.io)
+<img src="https://shields.io" alt="Linux" /> <img src="https://shields.io" alt="Ubuntu" /> <img src="https://shields.io" alt="Debian" /> <img src="https://shields.io" alt="Bash" /> <img src="https://shields.io" alt="Docker" /> <img src="https://shields.io" alt="GitHub" />
 
 ---
 
 ### 🌐 Мои социальные сети:
 
-[![Stepik](https://shields.io)](https://stepik.org/users/677636941/profile)
-[![TikTok](https://shields.io)](https://tiktok.com/@prityxo)
+<a href="https://stepik.org/users/677636941/profile" target="_blank"><img src="https://shields.io" alt="Stepik" /></a> 
+<a href="https://tiktok.com/@prityxo" target="_blank"><img src="https://shields.io" alt="TikTok" /></a>
+
 
 ---
 
