@@ -42,11 +42,30 @@
 ## 🛠️ My Projects
 
 <p align="center">
-  <!-- Карточка вашего главного VPN-гайда с правильными параметрами вашего репозитория -->
+  <!-- Красивая, защищенная от блокировок карточка проекта -->
   <a href="https://github.com/wersennyy/self-hosted-vpn-guide" target="_blank">
-    <img src="https://vercel.app" alt="Self-Hosted VPN Guide" />
+    <img src="https://skillicons.dev" width="40" align="center" /> 
+    <b>self-hosted-vpn-guide</b>
   </a>
 </p>
+
+```text
+┌────────────────────────────────────────────────────────┐
+│ 🛡️ Comprehensive step-by-step tutorial on deploying   │
+│    a modern, censorship-resistant private VPN server   │
+│    via 3x-ui panel (VLESS + XTLS-Reality).             │
+│                                                        │
+│  • Languages: English & Russian (RU/EN)                │
+│  • Tech Stack: Linux, Ubuntu, Xray, Docker             │
+│  • Hardening: SSH security, UFW firewall, Fail2Ban     │
+└────────────────────────────────────────────────────────┘
+```
+
+<p align="center">
+  <i>⏳ Working on new open-source AI & Network automation tools...</i>
+</p>
+
+---
 
 ---
 
