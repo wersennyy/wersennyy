@@ -1,20 +1,18 @@
 <div align="center">
 
-  <!-- Твоя картинка-волна, сохраненная в репозитории -->
-  <img src="wave-header(1).svg" width="100%" alt="wersennyy" />
+  <!-- Вызов твоей личной обновленной картинки -->
+  <img src="wave-header(1).svg" width="100%" alt="wersennyy header" />
 
-  <!-- Большой переливающийся никнейм JetBrains Mono, как у него на фото -->
-  <img src="https://demolab.com" alt="wersennyy" />
+  <!-- Вторая бегущая строка с дополнительными статусами, как у него -->
+  <img src="https://demolab.com" alt="subtitles" />
 
-  <!-- Твои технологии фирменным неоново-желтым цветом (как Python Backend на фото) -->
-  <img src="https://demolab.com" alt="skills" />
-
-  <!-- Твоя кнопка Stepik в его стиле и счетчик просмотров профиля -->
-  [![LeetCode](https://shields.io)](https://stepik.org)
+  <!-- Твой Stepik и просмотры -->
+  [![Stepik](https://shields.io)](https://stepik.org)
   ![Views](https://komarev.com)
 
 </div>
 
+---
 
 
 ---
