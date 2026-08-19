@@ -57,36 +57,6 @@
 │ 🔗 Link://github.com/wersennyy/self-hosted-vpn-guide   │
 └────────────────────────────────────────────────────────┘
 ```
----
-
-## Currently Learning
-
-<p align="center">
-
-🧠 AI Agents &nbsp;&nbsp; ⚙️ Linux &nbsp;&nbsp; 🖥 Assembly &nbsp;&nbsp; 👁 Computer Vision &nbsp;&nbsp; 🤖 Local LLMs
-
-</p>
-
-**Progress**
-
-```
-Linux              ██████████████░░  90%
-AI                 ████████████░░░░  80%
-Assembly           ████████████░░░░  75%
-Computer Vision    █████████████░░░  85%
-```
-
----
-
-## Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/santa67creator/santa67creator/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/santa67creator/santa67creator/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/santa67creator/santa67creator/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
 
 ---
 
