@@ -1,61 +1,136 @@
+<div align="center">
+
+```
+███████╗ █████╗ ███╗   ██╗████████╗ █████╗
+██╔════╝██╔══██╗████╗  ██║╚══██╔══╝██╔══██╗
+███████╗███████║██╔██╗ ██║   ██║   ███████║
+╚════██║██╔══██║██║╚██╗██║   ██║   ██╔══██║
+███████║██║  ██║██║ ╚████║   ██║   ██║  ██║
+╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝
+```
+
+### AI • Linux • Assembly • Computer Vision
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=A9FEF7&center=true&vCenter=true&width=600&lines=AI+Engineer;Local+LLM+Developer;Assembly+Enthusiast;Computer+Vision+Developer;Linux+Enthusiast;Building+things+that+matter..." alt="Typing SVG" />
+
+</div>
+
 <p align="center">
-  <!-- ВАЖНО: Тут стоит правильный тег картинки с восклицательным знаком ! перед [ -->
-  <img src="https://demolab.com" alt="Typing SVG" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,linux,vim,docker,arduino,git,github,mysql,vscode,cmake,opencv,blender" />
 </p>
 
 <p align="center">
-  <b>AI • Linux • Network Security • VPN Architect • Programming</b>
-</p>
-
-<p align="center">
-  <!-- Полноценный блок иконок приложений (как у Santa) -->
-  <img src="https://skillicons.dev" alt="My Skills" />
-</p>
-
-<p align="center">
-  <i>Also working with: 3x-ui, VLESS, XTLS-Reality, Xray, Networking</i>
+  <b>Also working with:</b> CUDA · Ollama · llama.cpp · OpenRouter · OpenAI API · Anthropic API · CPT · OpenClaw
 </p>
 
 ---
 
-## 👤 About Me
+## About Me
 
-```text
-┌────────────────────────────────────────────────────────┐
-│ Мне 15 лет, я учусь в школе и активно развиваюсь в IT. │
-│                                                        │
-│ Я программирую и создаю проекты в сферах:              │
-│  • AI & ИИ-ассистенты                                  │
-│  • Linux системы и автоматизация                       │
-│  • Сетевые технологии                                  │
-│                                                        │
-│ Чем я глубоко увлекаюсь и что изучаю:                  │
-│  • Изучением дистрибутивов Linux (Debian, Ubuntu)      │
-│  • Маршрутизацией интернет-трафика                     │
-│  • Сетевой безопасностью и обходом DPI                 │
-│  • Веб-версткой (HTML, CSS) и интерфейсами             │
-│                                                        │
-│ Автор популярного гайда по настройке self-hosted VPN.  │
-└────────────────────────────────────────────────────────┘
+```
+╭──────────────────────────────────────────────╮
+│                                              │
+│  Self-taught developer from ...              │
+│                                              │
+│  I enjoy building:                           │
+│                                              │
+│   • AI Assistants                            │
+│   • Computer Vision                          │
+│   • Local LLMs                               │
+│   • Assembly                                 │
+│   • Linux Applications                       │
+│   • Video AI                                 │
+│   • C++, C, Python and etc                   |
+|   • ClaudeCode, Opencode, etc                |
+|   • network, bash, scripting etc             |
+|   • just tech love computers and internet    │
+│   • also love Soldering                      │
+╰──────────────────────────────────────────────╯
 ```
 
 ---
 
-## 🌐 Social Media
+## Projects
 
-* 🟢 [Мой профиль на Stepik](https://stepik.org)
-* 📱 [Мой TikTok](https://tiktok.com)
+<!-- PINNED-PROJECTS:START -->
+<p align="center">
+  <a href="https://github.com/santa67creator/Saiko"><img src="https://raw.githubusercontent.com/santa67creator/santa67creator/main/card-saiko.svg" width="340" /></a>
+  <a href="https://github.com/santa67creator/my_rice_hyprland"><img src="https://raw.githubusercontent.com/santa67creator/santa67creator/main/card-my_rice_hyprland.svg" width="340" /></a>
+</p>
+<!-- PINNED-PROJECTS:END -->
 
 ---
 
-## 📊 GitHub Stats
+---
+
+## GitHub Stats
 
 <p align="center">
-  <!-- Проверьте наличие знака ! перед каждым блоком графиков -->
-  <img src="https://vercel.app" alt="wersennyy's GitHub stats" width="48%" />
-  <img src="https://vercel.app" alt="Top Langs" width="48%" />
+  <img src="https://raw.githubusercontent.com/santa67creator/github-stats/generated/overview.svg#gh-dark-mode-only" width="48%" />
+  <img src="https://raw.githubusercontent.com/santa67creator/github-stats/generated/overview.svg#gh-light-mode-only" width="48%" />
+  <img src="https://raw.githubusercontent.com/santa67creator/github-stats/generated/languages.svg#gh-dark-mode-only" width="38%" />
+  <img src="https://raw.githubusercontent.com/santa67creator/github-stats/generated/languages.svg#gh-light-mode-only" width="38%" />
 </p>
 
 <p align="center">
-  <img src="https://herokuapp.com" alt="GitHub Streak" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santa67creator&theme=tokyonight&hide_border=true&cb=1" width="60%" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=santa67creator&theme=tokyo-night&hide_border=true&cb=1" width="90%" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/santa67creator/santa67creator/main/trophy.svg" width="900" />
+</p>
+
+---
+
+## Terminal
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/santa67creator/santa67creator/main/terminal.svg" width="700" />
+</p>
+
+---
+
+---
+
+## Currently Learning
+
+<p align="center">
+
+🧠 AI Agents &nbsp;&nbsp; ⚙️ Linux &nbsp;&nbsp; 🖥 Assembly &nbsp;&nbsp; 👁 Computer Vision &nbsp;&nbsp; 🤖 Local LLMs
+
+</p>
+
+**Progress**
+
+```
+Linux              ██████████████░░  90%
+AI                 ████████████░░░░  80%
+Assembly           ████████████░░░░  75%
+Computer Vision    █████████████░░░  85%
+```
+
+---
+
+## Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/santa67creator/santa67creator/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/santa67creator/santa67creator/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/santa67creator/santa67creator/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
+<div align="center">
+
+> *"The best way to predict the future is to build it."*
+
+</div>
