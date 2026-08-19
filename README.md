@@ -2,16 +2,11 @@
 
   <!-- Вызов твоей личной обновленной картинки -->
   <img src="wave-header(1).svg" width="100%" alt="wersennyy header" />
-</div>
-
-###           AI • Linux • Network Security • VPN Architect • Programming
-
-</div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,linux,vim,arduino,git,github,vscode," />
+  <b>AI • Linux • Network Security • VPN Architect • Programming</b>
 </p>
-
+</div>
 ---
 
 ## About Me
