@@ -44,7 +44,7 @@
   &nbsp;&nbsp;
   <!-- Кнопка TikTok с точно такой же высотой -->
   <a href="https://tiktok.com/@prityxo" target="_blank">
-    <img src="tiktok.svg" height="35" alt="TikTok" />
+    <img src="tiktok_logo_icon_189233.svg" height="35" alt="TikTok" />
   </a>
 </p>
 
