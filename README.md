@@ -44,7 +44,7 @@
   &nbsp;&nbsp;
   <!-- Твой новый скачанный SVG ТикТока (локальный файл) -->
   <a href="https://tiktok.com/@prityxo" target="_blank">
-    <img src="tiktok_logo_icon_18923" height="28" alt="TikTok" />
+    <img src="tiktok_logo_icon_189233.svg" height="28" alt="TikTok" />
   </a>
 </p>
 
