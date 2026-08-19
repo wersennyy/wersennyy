@@ -17,7 +17,6 @@
 
 ## 👤 About Me
 
-<br>
 
 ### 🖥️ My Tech Profile
 *   ⚡ **Age:** 15-year-old student & tech enthusiast.
