@@ -6,6 +6,7 @@
 <p align="center">
   <b>AI • Linux • Network Security • VPN Architect • Programming</b>
 </p>
+---
 </div>
 
 ## About Me
