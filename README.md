@@ -37,16 +37,19 @@
 ## 🌐 Social Media
 
 <p align="center">
-  <!-- Кнопка на твой профиль в Stepik -->
+  <!-- Кнопка Stepik (локальный файл) -->
   <a href="https://stepik.org/users/677636941/profile" target="_blank">
-    <img src="https://shields.io" alt="Stepik" />
+    <img src="badge-stepik.svg" alt="Stepik" />
   </a>
   &nbsp;&nbsp;
-  <!-- Кнопка на твой TikTok -->
+  <!-- Твой новый скачанный SVG ТикТока (локальный файл) -->
   <a href="https://tiktok.com/@prityxo" target="_blank">
-    <img src="https://shields.io" alt="TikTok" />
+    <img src="tiktok_logo_icon_18923" height="28" alt="TikTok" />
   </a>
 </p>
+
+---
+
 
 ---
 <div align="center">
