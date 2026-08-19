@@ -10,7 +10,7 @@
 
 ```
 
-### AI • Linux • Assembly • Computer Vision
+### AI • Linux • Network Security • VPN Architect • Programming
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=A9FEF7&center=true&vCenter=true&width=600&lines=AI+Engineer;Local+LLM+Developer;Assembly+Enthusiast;Computer+Vision+Developer;Linux+Enthusiast;Building+things+that+matter..." alt="Typing SVG" />
 
