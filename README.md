@@ -39,12 +39,21 @@
 
 ---
 
-## Projects
+## 🛠️ My Projects
 
-<!-- PINNED-PROJECTS:START -->
 <p align="center">
-  "https://https://github.com/wersennyy/self-hosted-vpn-guide"
+  <!-- Карточка вашего главного VPN-гайда с правильными параметрами вашего репозитория -->
+  <a href="https://github.com/wersennyy/self-hosted-vpn-guide" target="_blank">
+    <img src="https://vercel.app" alt="Self-Hosted VPN Guide" />
+  </a>
 </p>
+
+<p align="center">
+  <i>⏳ Working on new open-source AI & Network automation tools...</i>
+</p>
+
+---
+
 <!-- PINNED-PROJECTS:END -->
 
 ---
