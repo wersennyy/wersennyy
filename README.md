@@ -20,8 +20,6 @@
 *    **WM & Ricing:** Crafting custom, polished setups and configurations for `Hyprland`.
 *    **Education:** Student.
 
----
-
 ### ⚙️ Core Interests & Focus
 *    **Hyprland Customization** — Building and optimizing clean dotfiles, status bars, and desktop environments.
 *    **Networking** — Designing high-performance, censorship-resistant routing .
