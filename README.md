@@ -19,20 +19,20 @@
 
 
 ### 🖥️ My Tech Profile
-*   ⚡ **Age:** 15-year-old student & tech enthusiast.
-*   🎯 **Main Goal:** Mastering advanced network architectures, Linux administration, and full-stack development to build secure, scalable open-source projects.
-*   💻 **Favorite OS:** Linux (`Ubuntu`, `Debian`) — fully running custom configurations.
-*   👑 **WM & Ricing:** Crafting custom, polished setups and configurations for `Hyprland`.
-*   📖 **Education:** Currently expanding my skills via self-study and `Stepik` courses.
+*    **Age:** 15-year-old student & tech enthusiast.
+*    **Main Goal:** Mastering advanced network architectures, Linux administration, and full-stack development to build secure, scalable open-source projects.
+*    **Favorite OS:** Linux (`Ubuntu`, `Debian`) — fully running custom configurations.
+*    **WM & Ricing:** Crafting custom, polished setups and configurations for `Hyprland`.
+*    **Education:** Currently expanding my skills via self-study and `Stepik` courses.
 
 ---
 
 ### ⚙️ Core Interests & Focus
-*   🔮 **Hyprland Customization** — Building and optimizing clean dotfiles, status bars, and desktop environments.
-*   🧠 **AI Automation** — Scripting custom AI tools and smart automation assistants.
-*   🛠️ **Networking** — Designing high-performance, censorship-resistant routing (`VLESS`, `Reality`, `Xray`).
-*   🧱 **Cybersecurity** — Hardening server environments (SSH protection, `UFW` firewall, `Fail2Ban`).
-*   🎨 **Web Dev** — Creating fast, responsive and pixel-perfect web interfaces.
+*    **Hyprland Customization** — Building and optimizing clean dotfiles, status bars, and desktop environments.
+*    **AI Automation** — Scripting custom AI tools and smart automation assistants.
+*    **Networking** — Designing high-performance, censorship-resistant routing (`VLESS`, `Reality`, `Xray`).
+*    **Cybersecurity** — Hardening server environments (SSH protection, `UFW` firewall, `Fail2Ban`).
+*    **Web Dev** — Creating fast, responsive and pixel-perfect web interfaces.
 
 ## 🌐 Social Media
 
@@ -47,7 +47,6 @@
     <img src="tiktok_logo_icon_189233.svg" height="35" alt="TikTok" />
   </a>
 </p>
----
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=wersennyy&bg_color=0E0E10&color=F5F5F5&line=E8FF4A&point=F5F5F5&title_color=E8FF4A&area=true&area_color=E8FF4A&hide_border=true&custom_title=Activity" width="98%" alt="activity" />
