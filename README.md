@@ -1,23 +1,14 @@
 <div align="center">
-
-  <!-- Вызов твоей личной обновленной картинки -->
   <img src="wave-header.svg" width="100%" alt="wersennyy header" />
-
   <br>
-
-  <!-- Строка направлений строго по центру -->
   <b>AI • Linux • Network Security • VPN Architect • Programming</b>
 <br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,bash,linux,vim,arduino,git,github,vscode" />
 </p>
 </div>
-
 <br>
-
 ## 👤 About Me
-
-
 ### 🖥️ My Tech Profile
 *    **Age:** 15-year-old student & tech enthusiast.
 *    **Main Goal:** Mastering advanced network architectures, Linux administration, and full-stack development to build secure, scalable open-source projects.
