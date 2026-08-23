@@ -41,10 +41,10 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://tiktok.com/@prityxo" target="_blank">
-    <img src="tiktok_logo_icon_189233.svg" height="35" alt="TikTok" />
+    <img src="Tiktok.svg" height="35" alt="TikTok" />
   </a>
  <a href="https://telegram/@snown999" target="_blank">
-    <img src="badge-telegram.svg" height="35" alt="Telegram" />
+    <img src="Telegram.svg" height="35" alt="Telegram" />
   </a>
 
 </p>
