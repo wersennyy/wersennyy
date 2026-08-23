@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Вызов твоей личной обновленной картинки -->
-  <img src="wave-header(1).svg" width="100%" alt="wersennyy header" />
+  <img src="wave-header.svg" width="100%" alt="wersennyy header" />
 
   <br>
 
