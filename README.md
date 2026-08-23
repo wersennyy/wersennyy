@@ -56,9 +56,9 @@
 │ tutorial on deploying a modern, censorship-resistant   │
 │ private VPN server via 3x-ui panel.                    │
 │                                                        │
-│  • Protocols: VLESS + XTLS-Reality (HTTPS mimic)       │
+│  • Protocols: VLESS + XTLS-Reality                     │
 │  • Security: SSH port shift, UFW Firewall, Fail2Ban    │
-│  • Platforms: Linux, iOS (Happ client setup verified)  │
+│  • Platforms: Linux, iOS (Happ client)                 │
 │  • Languages: English & Russian (RU/EN)                │
 │                                                        │
 │ 🔗 Link://github.com/wersennyy/self-hosted-vpn-guide   │
