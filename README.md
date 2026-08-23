@@ -37,7 +37,7 @@
 
 <p align="center">
   <a href="https://stepik.org/users/677636941/profile" target="_blank">
-    <img src="id3zHH-p12_logos.svg" height="35" alt="Stepik" />
+    <img src="Stepik.svg" height="35" alt="Stepik" />
   </a>
   &nbsp;&nbsp;
   <a href="https://tiktok.com/@prityxo" target="_blank">
