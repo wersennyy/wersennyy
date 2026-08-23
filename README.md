@@ -36,11 +36,11 @@
 ## 🌐 Social Media
 
 <p align="center">
-  <a href="https://stepik.org/users/677636941/profile" target="_blank"><img src="Stepik.svg" height="35"alt="Stepik"/></a>
+  <a href="https://stepik.org/users/677636941/profile" target="_blank"><img src="Stepik.svg" height="35"alt="Stepik" style="vertical-align: middle;"/></a>
  &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://tiktok.com/@prityxo" target="_blank"><img src="Tiktok.svg" height="45" alt="TikTok"/></a>
+  <a href="https://tiktok.com/@prityxo" target="_blank"><img src="Tiktok.svg" height="45" alt="TikTok" style="vertical-align: middle;"/></a>
    &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://t.me/@snown999" target="_blank"><img src="Telegram.svg" height="35" alt="Telegram"/></a>
+ <a href="https://t.me/@snown999" target="_blank"><img src="Telegram.svg" height="35" alt="Telegram" style="vertical-align: middle;"/></a>
 </p>
 <div align="center">
 
