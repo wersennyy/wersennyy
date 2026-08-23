@@ -29,22 +29,24 @@
 
 ### ⚙️ Core Interests & Focus
 *    **Hyprland Customization** — Building and optimizing clean dotfiles, status bars, and desktop environments.
-*    **Networking** — Designing high-performance, censorship-resistant routing (`VLESS`, `Reality`, `Xray`).
-*    **Cybersecurity** — Hardening server environments (SSH protection, `UFW` firewall, `Fail2Ban`).
+*    **Networking** — Designing high-performance, censorship-resistant routing .
+*    **Cybersecurity** — Hardening server environments.
 *    **Web Dev** — Creating fast, responsive and pixel-perfect web interfaces.
 
 ## 🌐 Social Media
 
 <p align="center">
-  <!-- Кнопка Stepik с принудительной высотой -->
   <a href="https://stepik.org/users/677636941/profile" target="_blank">
     <img src="id3zHH-p12_logos.svg" height="35" alt="Stepik" />
   </a>
   &nbsp;&nbsp;
-  <!-- Кнопка TikTok с точно такой же высотой -->
   <a href="https://tiktok.com/@prityxo" target="_blank">
     <img src="tiktok_logo_icon_189233.svg" height="35" alt="TikTok" />
   </a>
+ <a href="https://telegram/@snown999" target="_blank">
+    <img src="badge-telegram.svg" height="35" alt="Telegram" />
+  </a>
+
 </p>
 <div align="center">
 
