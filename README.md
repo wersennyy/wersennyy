@@ -1,12 +1,15 @@
 <div align="center">
   <img src="wave-header.svg" width="100%" alt="wersennyy header" />
   <br>
+  
   <b>AI • Linux • Network Security • VPN Architect • Programming</b>
 <br>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,bash,linux,vim,arduino,git,github,vscode" />
 </p>
 </div>
+
 <br>
 
 ## 👤 About Me
