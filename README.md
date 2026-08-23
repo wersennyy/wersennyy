@@ -43,7 +43,7 @@
   <a href="https://tiktok.com/@prityxo" target="_blank">
     <img src="Tiktok.svg" height="35" alt="TikTok" />
   </a>
- <a href="https://telegram/@snown999" target="_blank">
+ <a href="https://t.me/@snown999" target="_blank">
     <img src="Telegram.svg" height="35" alt="Telegram" />
   </a>
 
