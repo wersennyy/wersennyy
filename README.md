@@ -41,7 +41,7 @@
   </a>
  &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://tiktok.com/@prityxo" target="_blank">
-    <img src="Tiktok.svg" height="35" alt="TikTok" />
+    <img src="Tiktok.svg" height="45" alt="TikTok" />
   </a>
    &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://t.me/@snown999" target="_blank">
