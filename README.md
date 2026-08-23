@@ -33,6 +33,8 @@
 *    **Cybersecurity** — Hardening server environments.
 *    **Web Dev** — Creating fast, responsive and pixel-perfect web interfaces.
 
+---
+
 ## 🌐 Social Media
 
 <p align="center">
@@ -42,10 +44,11 @@
    &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://t.me/@snown999" target="_blank"><img src="Telegram.svg" height="35" alt="Telegram" style="vertical-align: middle;"/></a>
 </p>
+
+---
+
 <div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=wersennyy&bg_color=0E0E10&color=F5F5F5&line=E8FF4A&point=F5F5F5&title_color=E8FF4A&area=true&area_color=E8FF4A&hide_border=true&custom_title=Activity" width="98%" alt="activity" />
-
 </div>
 
 ## 🛠️ Best Projects
