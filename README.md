@@ -18,7 +18,6 @@
 *    **Main Goal:** Mastering advanced network architectures, Linux administration, and full-stack development to build secure, scalable open-source projects.
 *    **Favorite OS:** Linux (`Ubuntu`, `Debian`).
 *    **WM & Ricing:** Crafting custom, polished setups and configurations for `Hyprland`.
-*    **Education:** Student.
 
 ### ⚙️ Core Interests & Focus
 *    **Hyprland Customization** — Building and optimizing clean dotfiles, status bars, and desktop environments.
