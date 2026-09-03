@@ -28,30 +28,24 @@
 <div align="center">
   <table border="0" cellpadding="0" cellspacing="10">
     <tr>
-      <!-- Верхний ряд: две разные карточки (Статистика и Стрик) -->
+      <!-- Первая ссылка (Статистика) -->
       <td>
-        <a href="https://readmecodegen.com">
-          <img src="https://readmecodegen.com" alt="GitHub Stats" height="180"/> 
-        </a>
+        <a href="https://www.readmecodegen.com/custom-github-card-generator"> <img src="https://readmecodegen.com" alt="GitHub Stats" height="170"/> </a>
       </td>
+      <!-- Вторая ссылка (Стрик активности) -->
       <td>
-        <a href="https://readmecodegen.com">
-          <img src="https://readmecodegen.com&cardType=streak" alt="GitHub Stats" height="180"/>
-        </a>
+        <a href="https://www.readmecodegen.com/custom-github-card-generator"> <img src="https://readmecodegen.com&cardType=streak" alt="GitHub Stats" height="170"/> </a>
       </td>
     </tr>
     <tr>
-      <!-- Нижний ряд: третья карточка с языками программирования по центру -->
+      <!-- Третья ссылка (Языки) ровно по центру под ними -->
       <td colspan="2" align="center">
-        <a href="https://readmecodegen.com">
-          <img src="https://readmecodegen.com&cardType=langs" height="180"/>
-        </a>
+        <a href="https://www.readmecodegen.com/custom-github-card-generator"> <img src="https://readmecodegen.com" height="170"/> </a>
       </td>
     </tr>
   </table>
 </div>
 
-  
 ## 🌐 Social Media
 
 <p align="center">
