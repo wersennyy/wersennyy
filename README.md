@@ -25,8 +25,7 @@
 *    **Web Dev** — Creating fast, responsive and pixel-perfect web interfaces.
 
 ---
-[![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=wersennyy)](https://www.readmecodegen.com/custom-github-card-generator)
-[![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=wersennyy&cardType=streak)](https://www.readmecodegen.com/custom-github-card-generator)
+[![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=wersennyy)](https://www.readmecodegen.com/custom-github-card-generator) [![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=wersennyy&cardType=streak)](https://www.readmecodegen.com/custom-github-card-generator)
 ## 🌐 Social Media
 
 <p align="center">
