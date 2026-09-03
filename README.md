@@ -38,6 +38,8 @@
   </a>
 </p>
 
+[![wersennyy's github activity graph](https://vercel.app)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## 🌐 Social Media
 
 <p align="center">
