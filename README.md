@@ -25,7 +25,7 @@
 *    **Web Dev** — Creating fast, responsive and pixel-perfect web interfaces.
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wersennyy&theme=dark&show_icons=true)
+[![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=wersennyy)](https://www.readmecodegen.com/custom-github-card-generator)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wersennyy&theme=ayu_mirage&animation=draw&text_color=ffffff&bg_color=17171a&border_color=000000&icon_color=ffffff&chart_color=e5a50a) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Wersennyy&theme=ayu_mirage&animation=draw&text_color=ffffff&bg_color=17171a&border_color=000000&icon_color=ffffff&chart_color=e5a50a)&nbsp;
