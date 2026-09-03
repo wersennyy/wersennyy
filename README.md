@@ -26,6 +26,24 @@
 
 ---
 <p align="center">
+  <!-- Верхний ряд: две основные карточки рядом -->
+  <a href="https://www.readmecodegen.com/custom-github-card-generator">
+    <img src="https://www.readmecodegen.com/api/github-stats/svg?username=wersennyy" alt="GitHub Stats" width="48%"/> 
+  </a> 
+  <a href="https://www.readmecodegen.com/custom-github-card-generator">
+    <img src="https://www.readmecodegen.com/api/github-stats/svg?username=wersennyy&cardType=streak" alt="GitHub Stats" width="48%"/>
+  </a>
+
+  <br><br> <!-- Красивый и аккуратный отступ между рядами -->
+
+  <!-- Нижний ряд: карточка языков программирования аккуратно по центру -->
+  <a href="https://www.readmecodegen.com/custom-github-card-generator">
+    <img src="https://www.readmecodegen.com/api/github-stats/svg?username=wersennyy" width="65%"/>
+  </a>
+</p>
+
+
+<p align="center">
 <a href="https://www.readmecodegen.com/custom-github-card-generator"> <img src="https://www.readmecodegen.com/api/github-stats/svg?username=wersennyy" alt="GitHub Stats" width="48%"/> 
 </a> 
 <a href="https://www.readmecodegen.com/custom-github-card-generator"> <img src="https://www.readmecodegen.com/api/github-stats/svg?username=wersennyy&cardType=streak" alt="GitHub Stats" width="48%"/> </a>
