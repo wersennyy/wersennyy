@@ -26,8 +26,6 @@
 
 ---
 
-
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wersennyy&theme=ayu_mirage&animation=draw&text_color=ffffff&bg_color=17171a&border_color=000000&icon_color=ffffff&chart_color=e5a50a)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Wersennyy&theme=ayu_mirage&animation=draw&text_color=ffffff&bg_color=17171a&border_color=000000&icon_color=ffffff&chart_color=e5a50a)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Wersennyy&theme=ayu_mirage&animation=draw&text_color=ffffff&bg_color=17171a&border_color=000000&icon_color=ffffff&chart_color=e5a50a)
@@ -45,25 +43,7 @@
  <a href="https://t.me/@snown999" target="_blank"><img src="Telegram.svg" height="35" alt="Telegram" style="vertical-align: middle;"/></a>
 </p>
 <br>
----
-## 🛠️ Best Projects
 
-```text
-┌────────────────────────────────────────────────────────┐
-│ 🛡️ self-hosted-vpn-guide                               │
-│                                                        │
-│ A comprehensive, beginner-friendly step-by-step        │
-│ tutorial on deploying a modern, censorship-resistant   │
-│ private VPN server via 3x-ui panel.                    │
-│                                                        │
-│  • Protocols: VLESS + XTLS-Reality                     │
-│  • Security: SSH port shift, UFW Firewall, Fail2Ban    │
-│  • Platforms: Linux, iOS (Happ client)                 │
-│  • Languages: English & Russian (RU/EN)                │
-│                                                        │
-│ 🔗 Link://github.com/wersennyy/self-hosted-vpn-guide   │
-└────────────────────────────────────────────────────────┘
-```
 <div align="center">
   <img src="wave-footer.svg" width="100%" alt="wersennyy footer" />
 </div>
