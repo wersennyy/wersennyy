@@ -1,13 +1,11 @@
 
-
-
 <div align="center">
   <img src="wave-header.svg" width="100%" alt="wersennyy header" />
   <br>
   
   <b>AI • Linux • Network Security • VPN Architect • Programming</b>
 <br>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A4B643&width=435&lines=Wersenny)](https://git.io/typing-svg)
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,bash,linux,vim,arduino,git,github,vscode" />
 </p>
