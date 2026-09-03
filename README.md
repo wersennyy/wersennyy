@@ -31,23 +31,12 @@
 
 <p align="center">
   <a href="https://www.readmecodegen.com/custom-github-card-generator">
-    <img src="https://www.readmecodegen.com/api/github-stats/svg?username=wersennyy" alt="GitHub Stats" width="48%" />
+    <img src="https://www.readmecodegen.com/api/github-stats/svg?username=wersennyy" alt="GitHub Stats" width="48%"/>
   </a>
   <a href="https://www.readmecodegen.com/custom-github-card-generator">
-    <img src="https://www.readmecodegen.com/api/github-stats/svg?username=wersennyy&cardType=streak" alt="GitHub Stats" width="48%" />
+    <img src="https://www.readmecodegen.com/api/github-stats/svg?username=wersennyy&cardType=streak" alt="GitHub Stats" width="48%"/>
   </a>
 </p>
-
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      [![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=wersennyy)](https://www.readmecodegen.com/custom-github-card-generator) 
-    </td>
-    <td width="50%" align="center">
-     [![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=wersennyy&cardType=streak)](https://www.readmecodegen.com/custom-github-card-generator)
-    </td>
-  </tr>
-</table>
 
 ## 🌐 Social Media
 
