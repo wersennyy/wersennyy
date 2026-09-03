@@ -27,9 +27,9 @@
 ---
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wersennyy&theme=ayu_mirage&animation=draw&text_color=ffffff&bg_color=17171a&border_color=000000&icon_color=ffffff&chart_color=e5a50a) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Wersennyy&theme=ayu_mirage&animation=draw&text_color=ffffff&bg_color=17171a&border_color=000000&icon_color=ffffff&chart_color=e5a50a)&nbsp; 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Wersennyy&theme=ayu_mirage&animation=draw&text_color=ffffff&bg_color=17171a&border_color=000000&icon_color=ffffff&chart_color=e5a50a)&nbsp; 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Wersennyy&theme=ayu_mirage&animation=draw&text_color=ffffff&bg_color=17171a&border_color=000000&icon_color=ffffff&chart_color=e5a50a)&nbsp; 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Wersennyy&theme=ayu_mirage&animation=draw&text_color=ffffff&bg_color=17171a&border_color=000000&icon_color=ffffff&chart_color=e5a50a)&nbsp;&nbsp;  
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Wersennyy&theme=ayu_mirage&animation=draw&text_color=ffffff&bg_color=17171a&border_color=000000&icon_color=ffffff&chart_color=e5a50a)&nbsp; &nbsp; 
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Wersennyy&theme=ayu_mirage&animation=draw&text_color=ffffff&bg_color=17171a&border_color=000000&icon_color=ffffff&chart_color=e5a50a)&nbsp; &nbsp; 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Wersennyy&theme=ayu_mirage&animation=draw&utcOffset=0&text_color=ffffff&bg_color=17171a&border_color=000000&icon_color=ffffff&chart_color=e5a50a)
 
 
