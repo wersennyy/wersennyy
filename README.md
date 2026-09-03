@@ -27,25 +27,11 @@
 ---
 
 <p align="center">
-  <!-- Первый ряд (Основная статистика и Стрик) -->
-  <a href="https://readmecodegen.com">
-    <img src="https://readmecodegen.com" alt="GitHub Stats" width="48%"/>
-  </a>
-  <a href="https://readmecodegen.com">
-    <img src="https://readmecodegen.com&cardType=streak" alt="GitHub Streak" width="48%"/>
-  </a>
-  
-  <br> <!-- Перенос строки -->
-
-  <!-- Второй ряд (Языки и LeetCode/Топ репозиториев) -->
-  <a href="https://readmecodegen.com">
-    <img src="https://readmecodegen.com&cardType=langs" alt="GitHub Languages" width="48%"/>
-  </a>
-  <a href="https://readmecodegen.com">
-    <!-- Здесь можно использовать карточку LeetCode или убрать эту ссылку, если решите оставить пустой -->
-    <img src="https://readmecodegen.com&cardType=leetcode" alt="LeetCode Stats" width="48%"/>
-  </a>
+  <a href="https://readmecodegen.com"><img src="https://readmecodegen.com" alt="GitHub Stats" width="60%"/></a><br>
+  <a href="https://readmecodegen.com"><img src="https://readmecodegen.com&cardType=streak" alt="GitHub Streak" width="60%"/></a><br>
+  <a href="https://readmecodegen.com"><img src="https://readmecodegen.com&cardType=langs" alt="GitHub Languages" width="60%"/></a>
 </p>
+
 
 
 ## 🌐 Social Media
