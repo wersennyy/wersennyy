@@ -28,23 +28,21 @@
 <div align="center">
   <table border="0" cellpadding="0" cellspacing="10">
     <tr>
-      <!-- Первая ссылка (Статистика) -->
       <td>
-        <a href="https://www.readmecodegen.com/custom-github-card-generator"> <img src="https://readmecodegen.com" alt="GitHub Stats" height="170"/> </a>
+        <a href="https://readmecodegen.com"> <img src="https://readmecodegen.com" alt="GitHub Stats" width="100%"/> </a>
       </td>
-      <!-- Вторая ссылка (Стрик активности) -->
       <td>
-        <a href="https://www.readmecodegen.com/custom-github-card-generator"> <img src="https://readmecodegen.com&cardType=streak" alt="GitHub Stats" height="170"/> </a>
+        <a href="https://readmecodegen.com"> <img src="https://readmecodegen.com&cardType=streak" alt="GitHub Stats" width="100%"/> </a>
       </td>
     </tr>
     <tr>
-      <!-- Третья ссылка (Языки) ровно по центру под ними -->
       <td colspan="2" align="center">
-        <a href="https://www.readmecodegen.com/custom-github-card-generator"> <img src="https://readmecodegen.com" height="170"/> </a>
+        <a href="https://readmecodegen.com"> <img src="https://readmecodegen.com" width="65%"/> </a>
       </td>
     </tr>
   </table>
 </div>
+
 
 ## 🌐 Social Media
 
