@@ -38,21 +38,21 @@
 </p>
 
 ---
-
 <svg xmlns="http://w3.org" width="700" height="200" viewBox="0 0 700 200">
-  <style>
-    * { font-family: 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; }
-    .title { font-size: 22px; fill: #fabd2f; font-weight: bold; }
-    .label { fill: #8ec07c; font-size: 14px; }
-    .axis-text { fill: #8ec07c; font-size: 10px; font-family: sans-serif; }
+  <style> 
+    * { font-family: 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; } 
+    .title { font-size: 22px; fill: #fabd2f; font-weight: bold; } 
+    .label { fill: #8ec07c; font-size: 14px; } 
+    .axis-text { fill: #8ec07c; font-size: 10px; font-family: sans-serif; } 
   </style>
+
   <g class="gpsc-root">
-    <!-- Фон карточки -->
+    <!-- Тёмный фон карточки Gruvbox -->
     <rect x="1" y="1" rx="5" ry="5" height="99%" width="99.7%" stroke="#282828" stroke-width="1" fill="#282828"></rect>
-    
+
     <!-- Имя пользователя -->
     <text x="30" y="40" class="title">wersennyy</text>
-    
+
     <g transform="translate(0,40)">
       <g transform="translate(30,30)">
         <!-- Иконки -->
@@ -101,7 +101,6 @@
     </g>
   </g>
 </svg>
-
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=wersennyy&bg_color=0E0E10&color=F5F5F5&line=E8FF4A&point=F5F5F5&title_color=E8FF4A&area=true&area_color=E8FF4A&hide_border=true&custom_title=Activity" width="98%" alt="activity"/>
