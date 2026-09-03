@@ -27,6 +27,7 @@
 ---
 
 <p align="center">
+  <!-- Верхний ряд: две карточки рядом -->
   <a href="https://www.readmecodegen.com/custom-github-card-generator">
     <img src="https://www.readmecodegen.com/api/github-stats/svg?username=wersennyy" alt="GitHub Stats" width="48%"/>
   </a>
@@ -34,9 +35,14 @@
     <img src="https://www.readmecodegen.com/api/github-stats/svg?username=wersennyy&cardType=streak" alt="GitHub Stats" width="48%"/>
   </a>
   
-  [![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=wersennyy&cardType=langs)](https://www.readmecodegen.com/custom-github-card-generator)
-  
+  <br><br> <!-- Небольшой отступ между рядами -->
+
+  <!-- Нижний ряд: крупная карточка языков по центру -->
+  <a href="https://www.readmecodegen.com/custom-github-card-generator">
+    <img src="https://www.readmecodegen.com/api/github-stats/svg?username=wersennyy&cardType=langs" alt="GitHub Languages" width="70%"/>
+  </a>
 </p>
+
 
 ## 🌐 Social Media
 
