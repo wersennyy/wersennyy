@@ -39,8 +39,7 @@
 
 ---
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wersennyy&theme=gruvbox&animation=fade)
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wersennyy&theme=gruvbox&animation=fade&bg_color=0d0d0f)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Wersennyy&theme=gruvbox&animation=fade)
 
 <div align="center">
