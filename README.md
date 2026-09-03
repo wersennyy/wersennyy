@@ -11,14 +11,13 @@
 </div>
 
 <br>
- <!-- 
+ 
 ## 👤 About Me
 ### 🖥️ My Tech Profile
 *    **Age:** 15-year-old student & tech enthusiast.
 *    **Main Goal:** Mastering advanced network architectures, Linux administration, and full-stack development to build secure, scalable open-source projects.
 *    **Favorite OS:** Linux (`Ubuntu`, `Debian`).
-*    **WM & Ricing:** Crafting custom, polished setups and configurations for `Hyprland`.
-<!-- 
+*    **WM & Ricing:** Crafting custom, polished setups and configurations for `Hyprland`. 
 ### ⚙️ Core Interests & Focus
 *    **Hyprland Customization** — Building and optimizing clean dotfiles, status bars, and desktop environments.
 *    **Networking** — Designing high-performance, censorship-resistant routing .
@@ -26,7 +25,7 @@
 *    **Web Dev** — Creating fast, responsive and pixel-perfect web interfaces.
 
 ---
-<!-- 
+
 ## 🌐 Social Media
 
 <p align="center">
