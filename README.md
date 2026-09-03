@@ -41,6 +41,8 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wersennyy&theme=gruvbox&animation=fade)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Wersennyy&theme=gruvbox&animation=fade)
+
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=wersennyy&bg_color=0E0E10&color=F5F5F5&line=E8FF4A&point=F5F5F5&title_color=E8FF4A&area=true&area_color=E8FF4A&hide_border=true&custom_title=Activity" width="98%" alt="activity"/>
 </div>
