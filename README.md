@@ -25,24 +25,9 @@
 *    **Web Dev** — Creating fast, responsive and pixel-perfect web interfaces.
 
 ---
-<div align="center">
-  <table border="0" cellpadding="0" cellspacing="10">
-    <tr>
-      <td>
-        <a href="https://readmecodegen.com"> <img src="https://readmecodegen.com" alt="GitHub Stats" width="100%"/> </a>
-      </td>
-      <td>
-        <a href="https://readmecodegen.com"> <img src="https://readmecodegen.com&cardType=streak" alt="GitHub Stats" width="100%"/> </a>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <a href="https://readmecodegen.com"> <img src="https://readmecodegen.com" width="65%"/> </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
+[![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=wersennyy)](https://www.readmecodegen.com/custom-github-card-generator)
+[![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=wersennyy&cardType=streak)](https://www.readmecodegen.com/custom-github-card-generator)
+[![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=wersennyy&cardType=langs)](https://www.readmecodegen.com/custom-github-card-generator)
 
 ## 🌐 Social Media
 
