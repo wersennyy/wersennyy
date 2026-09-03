@@ -27,19 +27,23 @@
 ---
 
 <p align="center">
-  <!-- Верхний ряд: две карточки рядом -->
-  <a href="https://www.readmecodegen.com/custom-github-card-generator">
-    <img src="https://www.readmecodegen.com/api/github-stats/svg?username=wersennyy" alt="GitHub Stats" width="48%"/>
+  <!-- Первый ряд (Основная статистика и Стрик) -->
+  <a href="https://readmecodegen.com">
+    <img src="https://readmecodegen.com" alt="GitHub Stats" width="48%"/>
   </a>
-  <a href="https://www.readmecodegen.com/custom-github-card-generator">
-    <img src="https://www.readmecodegen.com/api/github-stats/svg?username=wersennyy&cardType=streak" alt="GitHub Stats" width="48%"/>
+  <a href="https://readmecodegen.com">
+    <img src="https://readmecodegen.com&cardType=streak" alt="GitHub Streak" width="48%"/>
   </a>
   
-  <br><br> <!-- Небольшой отступ между рядами -->
+  <br> <!-- Перенос строки -->
 
-  <!-- Нижний ряд: крупная карточка языков по центру -->
-  <a href="https://www.readmecodegen.com/custom-github-card-generator">
-    <img src="https://www.readmecodegen.com/api/github-stats/svg?username=wersennyy&cardType=langs" alt="GitHub Languages" width="70%"/>
+  <!-- Второй ряд (Языки и LeetCode/Топ репозиториев) -->
+  <a href="https://readmecodegen.com">
+    <img src="https://readmecodegen.com&cardType=langs" alt="GitHub Languages" width="48%"/>
+  </a>
+  <a href="https://readmecodegen.com">
+    <!-- Здесь можно использовать карточку LeetCode или убрать эту ссылку, если решите оставить пустой -->
+    <img src="https://readmecodegen.com&cardType=leetcode" alt="LeetCode Stats" width="48%"/>
   </a>
 </p>
 
