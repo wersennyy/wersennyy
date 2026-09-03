@@ -26,6 +26,15 @@
 
 ---
 
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wersennyy&theme=ayu_mirage&animation=draw&text_color=ffffff&bg_color=17171a&border_color=000000&icon_color=ffffff&chart_color=e5a50a)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Wersennyy&theme=ayu_mirage&animation=draw&text_color=ffffff&bg_color=17171a&border_color=000000&icon_color=ffffff&chart_color=e5a50a)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Wersennyy&theme=ayu_mirage&animation=draw&text_color=ffffff&bg_color=17171a&border_color=000000&icon_color=ffffff&chart_color=e5a50a)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Wersennyy&theme=ayu_mirage&animation=draw&text_color=ffffff&bg_color=17171a&border_color=000000&icon_color=ffffff&chart_color=e5a50a)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Wersennyy&theme=ayu_mirage&animation=draw&utcOffset=0&text_color=ffffff&bg_color=17171a&border_color=000000&icon_color=ffffff&chart_color=e5a50a)
+
+
 ## 🌐 Social Media
 
 <p align="center">
@@ -35,21 +44,8 @@
    &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://t.me/@snown999" target="_blank"><img src="Telegram.svg" height="35" alt="Telegram" style="vertical-align: middle;"/></a>
 </p>
--->
 <br>
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wersennyy&theme=ayu_mirage&animation=draw&text_color=ffffff&bg_color=17171a&border_color=000000&icon_color=ffffff&chart_color=e5a50a)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Wersennyy&theme=ayu_mirage&animation=draw&text_color=ffffff&bg_color=17171a&border_color=000000&icon_color=ffffff&chart_color=e5a50a)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Wersennyy&theme=ayu_mirage&animation=draw&text_color=ffffff&bg_color=17171a&border_color=000000&icon_color=ffffff&chart_color=e5a50a)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Wersennyy&theme=ayu_mirage&animation=draw&text_color=ffffff&bg_color=17171a&border_color=000000&icon_color=ffffff&chart_color=e5a50a)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Wersennyy&theme=ayu_mirage&animation=draw&utcOffset=0&text_color=ffffff&bg_color=17171a&border_color=000000&icon_color=ffffff&chart_color=e5a50a)
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=wersennyy&bg_color=0E0E10&color=F5F5F5&line=E8FF4A&point=F5F5F5&title_color=E8FF4A&area=true&area_color=E8FF4A&hide_border=true&custom_title=Activity" width="98%" alt="activity"/>
-</div>
-
 ---
-
 ## 🛠️ Best Projects
 
 ```text
