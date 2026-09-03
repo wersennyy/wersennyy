@@ -25,23 +25,31 @@
 *    **Web Dev** — Creating fast, responsive and pixel-perfect web interfaces.
 
 ---
-<p align="center">
-  <!-- Верхний ряд: две основные карточки рядом -->
-  <a href="https://www.readmecodegen.com/custom-github-card-generator">
-    <img src="https://www.readmecodegen.com/api/github-stats/svg?username=wersennyy" alt="GitHub Stats" width="48%"/> 
-  </a> 
-  <a href="https://www.readmecodegen.com/custom-github-card-generator">
-    <img src="https://www.readmecodegen.com/api/github-stats/svg?username=wersennyy&cardType=streak" alt="GitHub Stats" width="48%"/>
-  </a>
-
-  <br><br> <!-- Красивый и аккуратный отступ между рядами -->
-
-  <!-- Нижний ряд: карточка языков программирования аккуратно по центру -->
-  <a href="https://www.readmecodegen.com/custom-github-card-generator">
-    <img src="https://www.readmecodegen.com/api/github-stats/svg?username=wersennyy" width="65%"/>
-  </a>
-</p>
-
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="10">
+    <tr>
+      <!-- Верхний ряд: две разные карточки (Статистика и Стрик) -->
+      <td>
+        <a href="https://readmecodegen.com">
+          <img src="https://readmecodegen.com" alt="GitHub Stats" height="180"/> 
+        </a>
+      </td>
+      <td>
+        <a href="https://readmecodegen.com">
+          <img src="https://readmecodegen.com&cardType=streak" alt="GitHub Stats" height="180"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <!-- Нижний ряд: третья карточка с языками программирования по центру -->
+      <td colspan="2" align="center">
+        <a href="https://readmecodegen.com">
+          <img src="https://readmecodegen.com&cardType=langs" height="180"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
   
 ## 🌐 Social Media
