@@ -10,7 +10,9 @@
   <img src="https://skillicons.dev/icons?i=python,bash,linux,vim,arduino,git,github,vscode" />
 </p>
 </div>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A4B643&width=435&lines=Wersenny)](https://git.io/typing-svg)
+
 <br>
  
 ## 👤 About Me
