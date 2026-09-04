@@ -25,7 +25,6 @@
 *    **Web Dev** — Creating fast, responsive and pixel-perfect web interfaces.
 
 ---
-[![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=wersennyy)](https://www.readmecodegen.com/custom-github-card-generator)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=wersennyy&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
